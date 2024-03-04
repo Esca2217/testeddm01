@@ -6,6 +6,7 @@ export default function App() {
     <View style={styles.container}>
       <Text>Estefani Lopes da Silva to start working on your app!</Text>
       <Text>Ana Carolina Paganini Olindino to start working on your app!</Text>
+      <Text>Clone do projeto aula 04-03-2024 3b3 lado A</Text>
       <StatusBar style="auto" />
     </View>
     
